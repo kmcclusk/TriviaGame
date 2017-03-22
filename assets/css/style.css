@@ -1,0 +1,72 @@
+body {
+	background-color: #F8F2EA !important;
+	background-image:url("http://i.imgur.com/CJEWsh0.gif");
+	background-attachment: fixed;
+	background-position: -7px 1px;
+}
+div.highlight {
+	background-color: #F8F2EA;
+	border-color: #F8F2EA;
+}
+#questionText {
+	text-align:center;
+	font-family: Space Mono;
+	font-size:200%;
+}
+
+.options {
+	text-align:center;
+	font-family:Karla;
+	font-size:200%;
+}
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#timedisplay {
+	text-align: center;
+	font-family: Karla;
+	font-size: 200%;
+}
+#finalscore {
+	background-color: #F8F2EA;
+	text-align: center;
+	font-family: Space Mono;
+	font-size: 500%;
+	position: fixed;
+  	top: 40%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+}
+#skippedAnswer {
+	background-color: #F8F2EA;
+	text-align: center;
+	font-family: Space Mono;
+	font-size: 200%;
+	position: fixed;
+  	top: 50%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+}
+#finalmessage {
+	background-color: #F8F2EA;
+	text-align: center;
+	font-family: Karla;
+	font-size: 200%;
+	position: fixed;
+  	top: 60%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+}
+#reset {
+	text-align: center;
+	font-family: Karla;
+	font-size: 200%;
+	position: fixed;
+  	top: 80%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+}
